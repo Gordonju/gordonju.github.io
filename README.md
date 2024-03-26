@@ -1,14 +1,14 @@
 # Objective
 Driven Information Technology-Cybersecurity student with a focus on earning a B.S. degree. Proficient in Python, Java, and adept with Microsoft and iOS operating systems; seeking avenues to apply and enhance skills in a Cybersecurity environment. 
 
-#Education
+# Education
 Kean University, Union, NJ 
 Bachelor of Science in Information Technology-Cybersecurity, May 2026        
 
-#Courses
+# Courses
 Relevant Coursework:  IT Data Structures, Discrete Structures, Computer Programming, Network Technology, Computing in Modern Society, Digital Circuits & Systems 
 
-#Skills
+# Skills
 Technical Skills                                             Soft Skills                                                                                                         
 Microsoft Systems                                                - Effectively Working individually and in  groups                                                                
 iOS systems                                                         Customer Service                                     
@@ -17,11 +17,11 @@ Python programming                                            - Problem-solving
 Digital Systems                                                     - Leadership 
 Digital Circuits      
 
-#Projects 
+# Projects 
 Programming Work- Chess AI game, (Fall 2023)
 Using Github, coded a chess game that gave the choice of playing against another human or against AI using Java programming.                  
 
-#Experience
+# Experience
 Old Navy, Edison, NJ - Team Member, (June 2023 - Present)
 Provided support to  customers, addressing their needs and ensuring a positive experience.
 Collaborated with team members to complete job related  tasks. 
