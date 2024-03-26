@@ -19,22 +19,22 @@ Bachelor of Science in Information Technology-Cybersecurity, May 2026
 Relevant Coursework:  IT Data Structures, Discrete Structures, Computer Programming, Network Technology, Computing in Modern Society, Digital Circuits & Systems 
 
 # Skills
-Technical Skills                                                                               Soft Skills                                                                                                         
-Microsoft Systems                                                                            - Effectively Working individually and in  groups                       
+                                                                                                                                                                                      
+Microsoft Systems                                                                                                   
 
-iOS systems                                                                                   Customer Service 
+iOS systems                                                                                  
                                                             
-Java programming                                                                             - Communication
+Java programming   
 
-Python programming                                                                            - Problem-solving
+Python programming                                                                         
 
-Digital Systems                                                                                 - Leadership 
+Digital Systems                                                                                 
 
 Digital Circuits      
 
 # **Projects**
-### Programming Work- Chess AI game, (Fall 2023)
-Using Github, coded a chess game that gave the choice of playing against another human or against AI using Java programming.                  
+### Programming Project - Chess AI game, (Fall 2023)
+Coded a chess game that gave the choice of playing against another human or against AI using Java programming.                  
 
 # Experience
 ### Old Navy, Edison, NJ - Team Member, (June 2023 - Present)
