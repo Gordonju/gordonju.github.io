@@ -2,7 +2,7 @@ Justin Gordon
 
 1000 Morris Ave Union, NJ 
 
-111-222-3333
+732-771-6187
 
 gordonju@kean.edu
 
@@ -16,7 +16,7 @@ Kean University, Union, NJ
 Bachelor of Science in Information Technology-Cybersecurity, May 2026        
 
 # Courses
-Relevant Coursework:  IT Data Structures, Discrete Structures, Computer Programming, Network Technology, Computing in Modern Society, Digital Circuits & Systems 
+Relevant Coursework:  IT Data Structures, Discrete Structures, Computer Programming, Network Technology, Computing in Modern Society, Digital Circuits & Systems, Research and Technology
 
 # Skills
                                                                                                                                                                                       
@@ -31,6 +31,8 @@ Python programming
 Digital Systems                                                                                 
 
 Digital Circuits      
+
+
 
 # **Projects**
 ### Programming Project - Chess AI game, (Fall 2023)
